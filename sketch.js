@@ -1,4 +1,4 @@
-let pantalla = 2;
+let pantalla = 1;
 let cambiaPantalla = true;
 let fondos = [];
 let persona = [];
